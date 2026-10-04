@@ -18,3 +18,7 @@ circle mark these days. Dry days have no line.
 
 Most long paths start between July and September. The orange path is 5 August:
 368.9 mm. Daily totals hide when the rain fell within each day.
+
+```bash
+uv run plot.py
+```
