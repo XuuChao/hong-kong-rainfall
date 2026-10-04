@@ -1,0 +1,5 @@
+# Keep code and documentation line endings consistent.
+* text=auto eol=lf
+
+# Published source files must keep their original bytes in Git.
+data/** -text

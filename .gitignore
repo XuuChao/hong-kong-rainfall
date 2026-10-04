@@ -1,0 +1,12 @@
+# Commit the raw data and images; generated web pages are rebuilt.
+site/
+
+# Local tools and operating-system files.
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
